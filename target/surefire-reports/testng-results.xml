@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-12T13:37:00 PST" name="Suite" finished-at="2023-12-12T13:37:20 PST" duration-ms="19868">
+    <groups>
+    </groups>
+    <test started-at="2023-12-12T13:37:00 PST" name="Test" finished-at="2023-12-12T13:37:20 PST" duration-ms="19868">
+      <class name="testPractice_Level01.FileUpload_07">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:testPractice_Level01.FileUpload_07@78b236a0]" started-at="2023-12-12T13:34:57 PST" name="BeforeTest" finished-at="2023-12-12T13:35:04 PST" duration-ms="7062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="usingRobot()[pri:0, instance:testPractice_Level01.FileUpload_07@78b236a0]" started-at="2023-12-12T13:37:10 PST" name="usingRobot" finished-at="2023-12-12T13:37:12 PST" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usingRobot -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:testPractice_Level01.FileUpload_07@78b236a0]" started-at="2023-12-12T13:37:20 PST" name="AfterTest" finished-at="2023-12-12T13:37:22 PST" duration-ms="2135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- testPractice_Level01.FileUpload_07 -->
+      <class name="testPractice_Level01.Dropdown_02">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testPractice_Level01.Dropdown_02@6e9c413e]" started-at="2023-12-12T13:34:52 PST" name="beforeSuite" finished-at="2023-12-12T13:34:57 PST" duration-ms="4729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="f()[pri:0, instance:testPractice_Level01.Dropdown_02@6e9c413e]" started-at="2023-12-12T13:37:09 PST" name="f" finished-at="2023-12-12T13:37:09 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testPractice_Level01.Dropdown_02@6e9c413e]" started-at="2023-12-12T13:37:20 PST" name="afterSuite" finished-at="2023-12-12T13:37:20 PST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testPractice_Level01.Dropdown_02 -->
+      <class name="testPractice_Level01.InnerFrame_type02_10">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testPractice_Level01.InnerFrame_type02_10@24b52d3e]" started-at="2023-12-12T13:35:04 PST" name="beforeSuite" finished-at="2023-12-12T13:36:55 PST" duration-ms="111118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="f()[pri:0, instance:testPractice_Level01.InnerFrame_type02_10@24b52d3e]" started-at="2023-12-12T13:37:09 PST" name="f" finished-at="2023-12-12T13:37:09 PST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testPractice_Level01.InnerFrame_type02_10@24b52d3e]" started-at="2023-12-12T13:37:22 PST" name="afterSuite" finished-at="2023-12-12T13:37:28 PST" duration-ms="5391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testPractice_Level01.InnerFrame_type02_10 -->
+      <class name="testPractice_Level01.HandlingSlider_03">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testPractice_Level01.HandlingSlider_03@27e32fe4]" started-at="2023-12-12T13:37:04 PST" name="beforetest" finished-at="2023-12-12T13:37:09 PST" duration-ms="5356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="test()[pri:0, instance:testPractice_Level01.HandlingSlider_03@27e32fe4]" started-at="2023-12-12T13:37:19 PST" name="test" finished-at="2023-12-12T13:37:20 PST" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testPractice_Level01.HandlingSlider_03 -->
+      <class name="testPractice_Level01.Inneriframe09">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testPractice_Level01.Inneriframe09@1ea9f009]" started-at="2023-12-12T13:36:55 PST" name="beforeSuite" finished-at="2023-12-12T13:37:00 PST" duration-ms="4763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="f()[pri:0, instance:testPractice_Level01.Inneriframe09@1ea9f009]" started-at="2023-12-12T13:37:09 PST" name="f" finished-at="2023-12-12T13:37:10 PST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testPractice_Level01.Inneriframe09@1ea9f009]" started-at="2023-12-12T13:37:28 PST" name="afterSuite" finished-at="2023-12-12T13:37:33 PST" duration-ms="5124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testPractice_Level01.Inneriframe09 -->
+      <class name="testPractice_Level01.ScreenShot_05">
+        <test-method signature="test()[pri:0, instance:testPractice_Level01.ScreenShot_05@261d8190]" started-at="2023-12-12T13:37:12 PST" name="test" finished-at="2023-12-12T13:37:19 PST" duration-ms="6999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testPractice_Level01.ScreenShot_05 -->
+      <class name="testPractice_Level01.BrowserLaunch_01">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testPractice_Level01.BrowserLaunch_01@15deb1dc]" started-at="2023-12-12T13:34:47 PST" name="beforeSuite" finished-at="2023-12-12T13:34:52 PST" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="f()[pri:0, instance:testPractice_Level01.BrowserLaunch_01@15deb1dc]" started-at="2023-12-12T13:37:09 PST" name="f" finished-at="2023-12-12T13:37:09 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testPractice_Level01.BrowserLaunch_01@15deb1dc]" started-at="2023-12-12T13:37:20 PST" name="afterSuite" finished-at="2023-12-12T13:37:20 PST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testPractice_Level01.BrowserLaunch_01 -->
+      <class name="testPractice_Level01.ActionVsActions_06">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testPractice_Level01.ActionVsActions_06@2555fff0]" started-at="2023-12-12T13:37:00 PST" name="beforetest" finished-at="2023-12-12T13:37:04 PST" duration-ms="3463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="test()[pri:0, instance:testPractice_Level01.ActionVsActions_06@2555fff0]" started-at="2023-12-12T13:37:09 PST" name="test" finished-at="2023-12-12T13:37:09 PST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testPractice_Level01.ActionVsActions_06 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

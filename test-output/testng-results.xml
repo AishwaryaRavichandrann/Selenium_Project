@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="8" failed="4" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-12T10:49:23 PST" name="Suite" finished-at="2023-12-12T10:49:45 PST" duration-ms="21471">
+    <groups>
+    </groups>
+    <test started-at="2023-12-12T10:49:23 PST" name="Test" finished-at="2023-12-12T10:49:45 PST" duration-ms="21471">
+      <class name="testPractice_Level01.FileUpload_07">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:testPractice_Level01.FileUpload_07@3e58d65e]" started-at="2023-12-12T10:49:11 PST" name="BeforeTest" finished-at="2023-12-12T10:49:14 PST" duration-ms="2879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="usingRobot()[pri:0, instance:testPractice_Level01.FileUpload_07@3e58d65e]" started-at="2023-12-12T10:49:36 PST" name="usingRobot" finished-at="2023-12-12T10:49:39 PST" duration-ms="2548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usingRobot -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:testPractice_Level01.FileUpload_07@3e58d65e]" started-at="2023-12-12T10:49:45 PST" name="AfterTest" finished-at="2023-12-12T10:49:48 PST" duration-ms="2129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- testPractice_Level01.FileUpload_07 -->
+      <class name="testPractice_Level01.Dropdown_02">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testPractice_Level01.Dropdown_02@3fcdcf]" started-at="2023-12-12T10:49:09 PST" name="beforeSuite" finished-at="2023-12-12T10:49:11 PST" duration-ms="2257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="f()[pri:0, instance:testPractice_Level01.Dropdown_02@3fcdcf]" started-at="2023-12-12T10:49:34 PST" name="f" finished-at="2023-12-12T10:49:34 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testPractice_Level01.Dropdown_02@3fcdcf]" started-at="2023-12-12T10:49:45 PST" name="afterSuite" finished-at="2023-12-12T10:49:45 PST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testPractice_Level01.Dropdown_02 -->
+      <class name="testPractice_Level01.InnerFrame_type02_10">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testPractice_Level01.InnerFrame_type02_10@49bf29c6]" started-at="2023-12-12T10:49:14 PST" name="beforeSuite" finished-at="2023-12-12T10:49:15 PST" duration-ms="1240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="f()[pri:0, instance:testPractice_Level01.InnerFrame_type02_10@49bf29c6]" started-at="2023-12-12T10:49:34 PST" name="f" finished-at="2023-12-12T10:49:34 PST" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testPractice_Level01.InnerFrame_type02_10@49bf29c6]" started-at="2023-12-12T10:49:48 PST" name="afterSuite" finished-at="2023-12-12T10:49:53 PST" duration-ms="5498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testPractice_Level01.InnerFrame_type02_10 -->
+      <class name="testPractice_Level01.HandlingSlider_03">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testPractice_Level01.HandlingSlider_03@2189e7a7]" started-at="2023-12-12T10:49:29 PST" name="beforetest" finished-at="2023-12-12T10:49:33 PST" duration-ms="4742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="test()[pri:0, instance:testPractice_Level01.HandlingSlider_03@2189e7a7]" started-at="2023-12-12T10:49:44 PST" name="test" finished-at="2023-12-12T10:49:45 PST" duration-ms="994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testPractice_Level01.HandlingSlider_03 -->
+      <class name="testPractice_Level01.iframe_08">
+        <test-method signature="f()[pri:0, instance:testPractice_Level01.iframe_08@7668d560]" started-at="2023-12-12T10:49:34 PST" name="f" finished-at="2023-12-12T10:49:36 PST" duration-ms="1629" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchFrameException">
+            <message>
+              <![CDATA[No frame element found by name or id name of the frame
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchFrameException: No frame element found by name or id name of the frame
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: driver.version: unknown
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.frame(RemoteWebDriver.java:1186)
+at testPractice_Level01.iframe_08.f(iframe_08.java:27)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchFrameException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testPractice_Level01.iframe_08 -->
+      <class name="testPractice_Level01.Inneriframe09">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testPractice_Level01.Inneriframe09@437ebf59]" started-at="2023-12-12T10:49:15 PST" name="beforeSuite" finished-at="2023-12-12T10:49:23 PST" duration-ms="8073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="f()[pri:0, instance:testPractice_Level01.Inneriframe09@437ebf59]" started-at="2023-12-12T10:49:36 PST" name="f" finished-at="2023-12-12T10:49:36 PST" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testPractice_Level01.Inneriframe09@437ebf59]" started-at="2023-12-12T10:49:53 PST" name="afterSuite" finished-at="2023-12-12T10:49:58 PST" duration-ms="5144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testPractice_Level01.Inneriframe09 -->
+      <class name="testPractice_Level01.ScreenShot_05">
+        <test-method signature="test()[pri:0, instance:testPractice_Level01.ScreenShot_05@3bd55d8]" started-at="2023-12-12T10:49:39 PST" name="test" finished-at="2023-12-12T10:49:44 PST" duration-ms="4874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testPractice_Level01.ScreenShot_05 -->
+      <class name="testPractice_Level01.BrowserLaunch_01">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testPractice_Level01.BrowserLaunch_01@7ee55e70]" started-at="2023-12-12T10:49:07 PST" name="beforeSuite" finished-at="2023-12-12T10:49:09 PST" duration-ms="2241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="f()[pri:0, instance:testPractice_Level01.BrowserLaunch_01@7ee55e70]" started-at="2023-12-12T10:49:34 PST" name="f" finished-at="2023-12-12T10:49:34 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testPractice_Level01.BrowserLaunch_01@7ee55e70]" started-at="2023-12-12T10:49:45 PST" name="afterSuite" finished-at="2023-12-12T10:49:45 PST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testPractice_Level01.BrowserLaunch_01 -->
+      <class name="testPractice_Level01.ActionVsActions_06">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testPractice_Level01.ActionVsActions_06@22680f52]" started-at="2023-12-12T10:49:23 PST" name="beforetest" finished-at="2023-12-12T10:49:29 PST" duration-ms="5176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="test()[pri:0, instance:testPractice_Level01.ActionVsActions_06@22680f52]" started-at="2023-12-12T10:49:33 PST" name="test" finished-at="2023-12-12T10:49:34 PST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testPractice_Level01.ActionVsActions_06 -->
+      <class name="testPractice_Level01.JavaScriptUtil_04">
+        <test-method signature="clickElementByJS(org.openqa.selenium.WebElement,org.openqa.selenium.WebDriver)[pri:0, instance:testPractice_Level01.JavaScriptUtil_04@69b2f8e5]" started-at="2023-12-12T10:49:45 PST" name="clickElementByJS" finished-at="2023-12-12T10:49:45 PST" duration-ms="0" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Cannot inject @Test annotated Method [clickElementByJS] with [interface org.openqa.selenium.WebElement, interface org.openqa.selenium.WebDriver].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Cannot inject @Test annotated Method [clickElementByJS] with [interface org.openqa.selenium.WebElement, interface org.openqa.selenium.WebDriver].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection
+at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:436)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:350)
+at org.testng.internal.Parameters.createParameters(Parameters.java:693)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:888)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:728)
+at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:917)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickElementByJS -->
+        <test-method signature="drawBorder(org.openqa.selenium.WebElement,org.openqa.selenium.WebDriver)[pri:0, instance:testPractice_Level01.JavaScriptUtil_04@69b2f8e5]" started-at="2023-12-12T10:49:45 PST" name="drawBorder" finished-at="2023-12-12T10:49:45 PST" duration-ms="0" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Cannot inject @Test annotated Method [drawBorder] with [interface org.openqa.selenium.WebElement, interface org.openqa.selenium.WebDriver].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Cannot inject @Test annotated Method [drawBorder] with [interface org.openqa.selenium.WebElement, interface org.openqa.selenium.WebDriver].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection
+at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:436)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:350)
+at org.testng.internal.Parameters.createParameters(Parameters.java:693)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:888)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:728)
+at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:917)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drawBorder -->
+        <test-method signature="pageRefresh(org.openqa.selenium.WebDriver)[pri:0, instance:testPractice_Level01.JavaScriptUtil_04@69b2f8e5]" started-at="2023-12-12T10:49:45 PST" name="pageRefresh" finished-at="2023-12-12T10:49:45 PST" duration-ms="0" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Cannot inject @Test annotated Method [pageRefresh] with [interface org.openqa.selenium.WebDriver].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Cannot inject @Test annotated Method [pageRefresh] with [interface org.openqa.selenium.WebDriver].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection
+at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:436)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:350)
+at org.testng.internal.Parameters.createParameters(Parameters.java:693)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:888)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:728)
+at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:917)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageRefresh -->
+      </class> <!-- testPractice_Level01.JavaScriptUtil_04 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

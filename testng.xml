@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testPractice_Level01.ActionVsActions_06"/>
+      <class name="testPractice_Level01.InnerFrame_type02_10"/>
+      <class name="testPractice_Level01.BrowserLaunch_01"/>
+      <class name="testPractice_Level01.Dropdown_02"/>      
+      <class name="testPractice_Level01.Inneriframe09"/>
+      <class name="testPractice_Level01.FileUpload_07"/>
+      <class name="testPractice_Level01.ScreenShot_05"/>
+      <class name="testPractice_Level01.HandlingSlider_03"/>      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
